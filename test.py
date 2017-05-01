@@ -1,4 +1,5 @@
 pollo= "camilo"
 gallina= "angulo"
+colesterol="rodriguez"
 
-print(pollo+gallina)
+print(pollo+gallina+colesterol)
